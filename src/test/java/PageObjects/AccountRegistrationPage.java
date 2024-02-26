@@ -50,23 +50,4 @@ public class AccountRegistrationPage extends BasePage {
 	{
 		Login.click();
 	}
-	public  String randomeString()
-	{
-		String generatedString=RandomStringUtils.randomAlphabetic(10);
-		return generatedString;
-    }
-	public String randomeNumber()
-	{
-		String generatedNumber=RandomStringUtils.randomNumeric(10);
-		return  generatedNumber;
-		
-	}
-	public String randomeAlphanumeric()
-	{
-		String generatedAlphabetic=RandomStringUtils.randomAlphabetic(5);
-		String generatedAlphaNo=RandomStringUtils.randomNumeric(5);
-		return  (generatedAlphabetic+"@"+generatedAlphaNo);	
-	}	
-	
-	
 }

@@ -1,0 +1,15 @@
+22:33:46.967 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+22:33:47.288 [main] ERROR testCases.AccountRegistrationTest - test Failed
+22:34:56.049 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+22:34:56.111 [main] INFO  testCases.AccountRegistrationTest - Sucessfully login
+22:36:17.266 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+22:36:17.318 [main] INFO  testCases.AccountRegistrationTest - Sucessfully login
+22:40:13.782 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+22:40:13.962 [main] INFO  testCases.AccountRegistrationTest - Sucessfully login
+22:43:13.426 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+22:43:13.487 [main] INFO  testCases.AccountRegistrationTest - Sucessfully login
+22:44:34.952 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+22:44:35.023 [main] INFO  testCases.AccountRegistrationTest - Sucessfully login
+22:54:31.550 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+22:59:59.931 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********
+23:04:09.198 [main] INFO  testCases.AccountRegistrationTest - *********Strting AccountRegistration********

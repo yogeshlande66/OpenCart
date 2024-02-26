@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage extends BasePage {
 	WebDriver driver;
-	
+	// This is the common method I have craeted for calling the object of WebElement
 	public LoginPage(WebDriver driver)
 	{
 		super(driver);
